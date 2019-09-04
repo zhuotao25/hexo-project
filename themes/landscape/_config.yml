@@ -2,6 +2,7 @@
 menu:
   Home: /
   Archives: /archives
+  About Me: https://zhuotao25.github.io/my-portfolio/
 rss: /atom.xml
 
 # Content
